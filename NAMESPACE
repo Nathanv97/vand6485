@@ -3,5 +3,6 @@
 export(binsamp)
 export(myboot2)
 export(mycltp)
+export(mymlnorm)
 export(myncurve)
 export(piecewise)
