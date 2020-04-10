@@ -2,6 +2,7 @@
 
 export(binsamp)
 export(myboot2)
+export(myci)
 export(mycltp)
 export(mymlnorm)
 export(myncurve)
