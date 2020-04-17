@@ -1,4 +1,4 @@
-#'Sampling fucntion
+#'Binomial Sampling fucntion
 #'
 #'takes number of times to run the sample, iter, and samples n times each at p probability of success.
 #'
